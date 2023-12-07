@@ -7,7 +7,7 @@
   </h3>
 </div>
 
-⚡️ Demo application showcasing utilization of Particle Network's [Smart Wallet-as-a-Service](https://blog.particle.network/announcing-our-smart-wallet-as-a-service-modular-stack-upgrading-waas-with-erc-4337/) ([Particle Auth Core](https://docs.particle.network/developers/auth-service/core/web) in this case) on the X1 testbet. This application facilitates social login, smart account assignment, and sends a sample user operation of 0.001 OKB to a dead address.
+⚡️ Demo application showcasing utilization of Particle Network's [Smart Wallet-as-a-Service](https://blog.particle.network/announcing-our-smart-wallet-as-a-service-modular-stack-upgrading-waas-with-erc-4337/) ([Particle Auth Core](https://docs.particle.network/developers/auth-service/core/web) in this case) on the X1 testnet. This application facilitates social login, smart account assignment, and sends a sample user operation of 0.001 OKB to a dead address.
 
 Built using **Particle Auth Core**, **TypeScript**, **Particle AA SDK**
 
